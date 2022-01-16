@@ -19,7 +19,7 @@ const Resume = () => {
                     <div className='col'>
                         <div className='card'>
                             <div className="header">
-                                <h3>See My Resume: <a href="https://randolphrichard.github.io/my-career-path/resume.html">Randolph Richard</a>
+                                <h3>See My Resume: <a href="https://randolphrichard.github.io/my-career-path/resume.html" rel="noopener noreferrer" target="_blank">Randolph Richard</a>
                                 </h3>
                             </div>
 
@@ -58,39 +58,39 @@ const Resume = () => {
 
                                 <div className='grid-container-skills'>
                                     <div className='grid-item-skills'>
-                                        <img src={Logo} className='img-skills' />
+                                        <img src={Logo} alt='logo' className='img-skills' />
                                     </div>
 
                                     <div className='grid-item-skills'>
-                                        <img src={MernLogo} className='img-skills' />
+                                        <img src={MernLogo} alt='mernlogo' className='img-skills' />
                                     </div>
 
                                     <div className='grid-item-skills'>
-                                        <img src={ReduxLogo} className='img-skills' />
+                                        <img src={ReduxLogo} alt='reduxlogo' className='img-skills' />
                                     </div>
 
                                     <div className='grid-item-skills'>
-                                        <img src={JqueryLogo} className='img-skills' />
+                                        <img src={JqueryLogo} alt='jquerylogo' className='img-skills' />
                                     </div>
 
                                     <div className='grid-item-skills'>
-                                        <img src={WebpackLogo} className='img-skills' />
+                                        <img src={WebpackLogo} alt='webpacklogo' className='img-skills' />
                                     </div>
 
                                     <div className='grid-item-skills'>
-                                        <img src={BootstrapLogo} className='img-skills' />
+                                        <img src={BootstrapLogo} alt='boostraplogo' className='img-skills' />
                                     </div>
 
                                     <div className='grid-item-skills'>
-                                        <img src={HandlebarsLogo} className='img-skills' />
+                                        <img src={HandlebarsLogo} alt='handlebarslogo' className='img-skills' />
                                     </div>
 
                                     <div className='grid-item-skills'>
-                                        <img src={SqlLogo} className='img-skills' />
+                                        <img src={SqlLogo} alt='sqllogo' className='img-skills' />
                                     </div>
 
                                     <div className='grid-item-skills'>
-                                        <img src={MongoLogo} className='img-skills' />
+                                        <img src={MongoLogo} alt='mongologo' className='img-skills' />
                                     </div>
                                 </div>
                             </div>

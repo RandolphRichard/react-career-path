@@ -1,23 +1,23 @@
-import Voltron from './assets/images/voltron.png';
-import Infinity from './assets/images/infinity.png';
+import Quiz from './assets/images/Quiz.png';
+import Notes from './assets/images/Notes.png';
 import Todo from './assets/images/task-tracker.png';
-import WineBlog from './assets/images/wine-blogger.png';
+import TBlog from './assets/images/tblogger.png';
 import WeatherScanner from './assets/images/weather-scanner.png';
-import FanTinder from './assets/images/fan-tinder.png';
+import Crypto from './assets/images/Crypto.png';
 import Taskinator from './assets/images/taskinator.png';
 import PizzaHunt from './assets/images/pizza-hunt.png';
-import PwaBudgetTracker from './assets/images/pwa-budget-tracker.png';
+import FinanceTrend from './assets/images/Finance-Trend.png';
 import TechBlog from './assets/images/tech-blog.png';
 import ShopShop from './assets/images/shop-shop.png';
-import GoogleBooks from './assets/images/book-search.png';
+import Web from './assets/images/Web.png';
 import ZooKeepr from './assets/images/zoo-keepr.png';
 import WeatherDashboard from './assets/images/weather-dashboard.png';
 
 export default [
     {
         "id": 1,
-        "name": "FanTinder",
-        "image": FanTinder,
+        "name": "Crypto Buzz",
+        "image": Crypto,
         "github": "https://github.com/RandolphRichard/cryptobuzz.git",
         "deploy": "https://cryptobuzz.herokuapp.com/"
     },
@@ -30,28 +30,28 @@ export default [
     },
     {
         "id": 3,
-        "name": "Movie Rentals",
-        "image": Infinity,
-        "github": "https://github.com/RandolphRichard/cryptobuzz.git",
-        "deploy": "https://cryptobuzz.herokuapp.com/"
+        "name": "Note Taker",
+        "image": Notes,
+        "github": "https://github.com/RandolphRichard/note-taker.git",
+        "deploy": "https://reliable-note-taker.herokuapp.com/"
     },
     {
         "id": 4,
-        "name": "Wine Blog",
-        "image": WineBlog,
+        "name": "Tech Blog",
+        "image": TBlog,
         "github": "https://github.com/RandolphRichard/cryptobuzz.git",
         "deploy": "https://cryptobuzz.herokuapp.com/"
     },
     {
         "id": 5,
-        "name": "Voltron",
-        "image": Voltron,
+        "name": "Quiz",
+        "image": Quiz,
         "github": "https://github.com/RandolphRichard/quiz.git",
         "deploy": "https://randolphrichard.github.io/quiz/"
     },
     {
         "id": 6,
-        "name": "Shop Shop",
+        "name": "Burger",
         "image": ShopShop,
         "github": "https://github.com/RandolphRichard/food-festival.git",
         "deploy": "https://randolphrichard.github.io/food-festival/"
@@ -72,14 +72,14 @@ export default [
     },
     {
         "id": 9,
-        "name": "PWA Budget Tracker",
-        "image": PwaBudgetTracker,
+        "name": "Finance Trend",
+        "image": FinanceTrend,
         "github": "https://github.com/RandolphRichard/finance-trend.git",
         "deploy": "https://finances-trends.herokuapp.com/"
     },
     {
         "id": 10,
-        "name": "Tech Blog",
+        "name": "Tech Social",
         "image": TechBlog,
         "github": "https://github.com/RandolphRichard/DTech-Squad.git",
         "deploy": "https://tech-blog-posts.herokuapp.com/"
@@ -93,8 +93,8 @@ export default [
     },
     {
         "id": 12,
-        "name": "Book Search Engine",
-        "image": GoogleBooks,
+        "name": "Web Optimization Article",
+        "image": Web,
         "github": "https://github.com/RandolphRichard/marketing-startegy.git",
         "deploy": "https://randolphrichard.github.io/marketing-startegy/"
     },

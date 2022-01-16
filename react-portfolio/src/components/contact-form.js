@@ -52,12 +52,12 @@ function ContactForm() {
     <Form onSubmit={sendEmail} id="contactForm">
       <Form.Group controlId="name">
         <Form.Label>Your Name</Form.Label>
-        <Form.Control required name="name" placeholder="Zachary Rich" onBlur={handleChange} />
+        <Form.Control required name="name" placeholder="Your full name" onBlur={handleChange} />
       </Form.Group>
 
       <Form.Group controlId="email">
         <Form.Label>Your Email</Form.Label>
-        <Form.Control required name="email" type="email" placeholder="zacharyrich@gmail.com"  onBlur={handleChange} />
+        <Form.Control required name="email" type="email" placeholder="your email"  onBlur={handleChange} />
       </Form.Group>
 
       <Form.Group controlId="subject">

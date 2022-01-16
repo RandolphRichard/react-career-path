@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container';
 import Jumbotron from 'react-bootstrap/Jumbotron';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import ContactForm from '../components/contact-form';
+import  ContactForm  from '../components/contact-form';
 import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 import '../App.css';
 
@@ -34,7 +34,7 @@ function Contact() {
                             </p>
                             
                             <p>
-                                <a href="https://github.com/RandolphRichard" target='_blank'>
+                                <a href="https://github.com/RandolphRichard" rel="noopener noreferrer" target='_blank'>
                                     <span className="pr-3">
                                         <FaGithub />
                                     </span>
@@ -42,7 +42,7 @@ function Contact() {
                                 </a>
                             </p>
                             <p>
-                                <a href="https://www.linkedin.com/in/randolph-richard-77268195/" target='_blank'>
+                                <a href="https://www.linkedin.com/in/randolph-richard-77268195/" rel="noopener noreferrer" target='_blank'>
                                     <span className="pr-3">
                                         <FaLinkedin />
                                     </span>
