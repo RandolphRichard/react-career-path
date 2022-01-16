@@ -1,6 +1,6 @@
 # react-portfolio
 
-Deploy Link: https://randolphrichard.github.io/react-portfolio/
+Deploy Link: https://randolphrichard.github.io/react-career-path/
 
 ## User Story
 AS AN employer looking for candidates with experience building single-page applications
