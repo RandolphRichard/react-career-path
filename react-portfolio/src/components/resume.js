@@ -19,7 +19,7 @@ const Resume = () => {
                     <div className='col'>
                         <div className='card'>
                             <div className="header">
-                                <h3>See My Resume: <a href="https://github.com/RandolphRichard/react-career-path/tree/main/react-portfolio/src/assets/resume.pdf" rel="noopener noreferrer" target="_blank">Randolph Richard</a>
+                                <h3>See My Resume: <a href="https://github.com/RandolphRichard/react-career-path/raw/main/react-portfolio/src/assets/resume.pdf" rel="noopener noreferrer" target="_blank">Randolph Richard</a>
                                 </h3>
                             </div>
 
