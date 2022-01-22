@@ -8,6 +8,7 @@ import WebpackLogo from '../assets/images/webpack-logo.png';
 import HandlebarsLogo from '../assets/images/handlebars-logo.png';
 import SqlLogo from '../assets/images/sql-logo.png';
 import MongoLogo from '../assets/images/mongodb-logo.png';
+import Resumes from '../assets/resume.pdf';
 import '../App.css';
 import '../portfolio.css';
 
@@ -19,7 +20,8 @@ const Resume = () => {
                     <div className='col'>
                         <div className='card'>
                             <div className="header">
-                                <h3>See My Resume: <a href="https://github.com/RandolphRichard/react-career-path/raw/main/react-portfolio/src/assets/resume.pdf" rel="noopener noreferrer" target="_blank">Randolph Richard</a>
+                            {/* rel="noopener noreferrer" target="_blank" */}
+                                <h3>See My Resume: <a href={Resumes} download="resume.pdf" >Randolph Richard</a>
                                 </h3>
                             </div>
 
