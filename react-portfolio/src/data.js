@@ -2,7 +2,7 @@ import Quiz from './assets/images/Quiz.png';
 import Notes from './assets/images/Notes.png';
 import Todo from './assets/images/task-tracker.png';
 import TBlog from './assets/images/tblogger.png';
-import WeatherScanner from './assets/images/weather-scanner.png';
+import Map from './assets/images/map.jpg';
 import Crypto from './assets/images/Crypto.png';
 import Taskinator from './assets/images/taskinator.png';
 import PizzaHunt from './assets/images/pizza-hunt.png';
@@ -23,10 +23,10 @@ export default [
     },
     {
         "id": 2,
-        "name": "Weather Scanner",
-        "image": WeatherScanner,
-        "github": "https://github.com/RandolphRichard/Weather-Dashboard.git",
-        "deploy": "https://randolphrichard.github.io/Weather-Dashboard/"
+        "name": "Upark",
+        "image": Map,
+        "github": "https://github.com/RandolphRichard/upark.git",
+        "deploy": "https://ur-parking.herokuapp.com/"
     },
     {
         "id": 3,
