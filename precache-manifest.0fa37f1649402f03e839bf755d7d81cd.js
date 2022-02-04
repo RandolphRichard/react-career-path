@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02e1e68fcc7a1bc4608fbe4f4bf8b16d",
+    "revision": "94ab23f67eb30a4fbd1d741b5d426379",
     "url": "/react-career-path/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-career-path/static/css/2.5aa997f2.chunk.css"
   },
   {
-    "revision": "24fb934e4f14d5ae3f33",
+    "revision": "6c99a2e09fcee7f47be1",
     "url": "/react-career-path/static/css/main.bc885cf8.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-career-path/static/js/3.0ec4ba0a.chunk.js"
   },
   {
-    "revision": "24fb934e4f14d5ae3f33",
-    "url": "/react-career-path/static/js/main.cc1738e2.chunk.js"
+    "revision": "6c99a2e09fcee7f47be1",
+    "url": "/react-career-path/static/js/main.0f3b8373.chunk.js"
   },
   {
     "revision": "b4f3aba8136e9f58ef4c",
@@ -84,6 +84,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-career-path/static/media/logo.0a84db99.png"
   },
   {
+    "revision": "c73cc631bb9822a49f12a647476269a4",
+    "url": "/react-career-path/static/media/map.c73cc631.jpg"
+  },
+  {
     "revision": "0aea9cb9d494b02ca4dce0e535e3259f",
     "url": "/react-career-path/static/media/mern-logo.0aea9cb9.png"
   },
@@ -134,10 +138,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5b777e7d7da546a6f1b11041ce9a202f",
     "url": "/react-career-path/static/media/weather-dashboard.5b777e7d.png"
-  },
-  {
-    "revision": "fdf7279305c700c6f7c29c17d3a6c882",
-    "url": "/react-career-path/static/media/weather-scanner.fdf72793.png"
   },
   {
     "revision": "fb9cd70bfe9fe735a423b2d91a7366bd",

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-career-path/static/css/main.bc885cf8.chunk.css",
-    "main.js": "/react-career-path/static/js/main.cc1738e2.chunk.js",
-    "main.js.map": "/react-career-path/static/js/main.cc1738e2.chunk.js.map",
+    "main.js": "/react-career-path/static/js/main.0f3b8373.chunk.js",
+    "main.js.map": "/react-career-path/static/js/main.0f3b8373.chunk.js.map",
     "runtime-main.js": "/react-career-path/static/js/runtime-main.457b3bf7.js",
     "runtime-main.js.map": "/react-career-path/static/js/runtime-main.457b3bf7.js.map",
     "static/css/2.5aa997f2.chunk.css": "/react-career-path/static/css/2.5aa997f2.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.0ec4ba0a.chunk.js": "/react-career-path/static/js/3.0ec4ba0a.chunk.js",
     "static/js/3.0ec4ba0a.chunk.js.map": "/react-career-path/static/js/3.0ec4ba0a.chunk.js.map",
     "index.html": "/react-career-path/index.html",
-    "precache-manifest.37db282bc9ef8146bb7648ba15e43911.js": "/react-career-path/precache-manifest.37db282bc9ef8146bb7648ba15e43911.js",
+    "precache-manifest.0fa37f1649402f03e839bf755d7d81cd.js": "/react-career-path/precache-manifest.0fa37f1649402f03e839bf755d7d81cd.js",
     "service-worker.js": "/react-career-path/service-worker.js",
     "static/css/2.5aa997f2.chunk.css.map": "/react-career-path/static/css/2.5aa997f2.chunk.css.map",
     "static/css/main.bc885cf8.chunk.css.map": "/react-career-path/static/css/main.bc885cf8.chunk.css.map",
@@ -29,6 +29,7 @@
     "static/media/handlebars-logo.png": "/react-career-path/static/media/handlebars-logo.b032de98.png",
     "static/media/jquery-logo.png": "/react-career-path/static/media/jquery-logo.fce9e833.png",
     "static/media/logo.png": "/react-career-path/static/media/logo.0a84db99.png",
+    "static/media/map.jpg": "/react-career-path/static/media/map.c73cc631.jpg",
     "static/media/mern-logo.png": "/react-career-path/static/media/mern-logo.0aea9cb9.png",
     "static/media/mongodb-logo.png": "/react-career-path/static/media/mongodb-logo.6ac53c3e.png",
     "static/media/pittsburgh.png": "/react-career-path/static/media/pittsburgh.1fe7fae7.png",
@@ -42,7 +43,6 @@
     "static/media/tblogger.png": "/react-career-path/static/media/tblogger.a8a68ad1.png",
     "static/media/tech-blog.png": "/react-career-path/static/media/tech-blog.a3f680d3.png",
     "static/media/weather-dashboard.png": "/react-career-path/static/media/weather-dashboard.5b777e7d.png",
-    "static/media/weather-scanner.png": "/react-career-path/static/media/weather-scanner.fdf72793.png",
     "static/media/webpack-logo.png": "/react-career-path/static/media/webpack-logo.fb9cd70b.png",
     "static/media/zoo-keepr.png": "/react-career-path/static/media/zoo-keepr.a8dcd0c4.png"
   },
@@ -51,6 +51,6 @@
     "static/css/2.5aa997f2.chunk.css",
     "static/js/2.0d87d04e.chunk.js",
     "static/css/main.bc885cf8.chunk.css",
-    "static/js/main.cc1738e2.chunk.js"
+    "static/js/main.0f3b8373.chunk.js"
   ]
 }
